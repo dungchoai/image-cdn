@@ -1,0 +1,2 @@
+﻿id = Server 1
+Sever Gọi Rồng Solo = 1:127.0.0.1:2907:2908

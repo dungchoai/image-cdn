@@ -1,0 +1,10 @@
+34
+0;arr_data_game.bin;arr_data_game;370660
+1;iconClient.zip;client_zip;1127247;2925344;5328045;8032270
+2;iconChar.zip;char_zip;4971264;6073608;7506599;9262295
+3;mapmini.zip;mapmini;462741;1357756;2562262;3948240
+4;mapsmall.zip;mapsmall;2962625;8813824;17669296;27843910
+5;jasr.dll;jasr.dll;860160
+6;vdtt.exe;vdtt.exe;465851
+7;core.jar;core.jar;846317
+8;gdx.jar;gdx.jar;7926170
